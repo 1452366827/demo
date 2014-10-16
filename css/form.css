@@ -1,0 +1,63 @@
+body{
+	background: #FBF4E4;
+}
+.header_title{
+	font-size: 16px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	color: #fff;
+	font-family: 'Microsoft YaHei';
+	background-color: #FFC388;
+}
+.absBox{
+	position: absolute;
+	left: 20px;
+	top: -2px;
+}
+
+.main .inputBox{
+	border: 1px solid #DDDBD8;
+	background-color: #fff;
+	padding-left: 30px;
+	padding-right: 0;
+	height: 40px;
+	border-radius: 5px;
+	font-family: 'Microsoft YaHei';
+	font-size: 14px;
+	line-height: 40px;
+}
+.main .userAccount{
+	background: url(../images/ic_regist_contact_name.png) no-repeat scroll 5px center #fff;
+	background-size: 20px;
+}
+.main .userPass{
+	background: url(../images/ic_pwd_login.png) no-repeat scroll 5px center #fff;
+	background-size: 20px;
+}
+.main .card{
+	background: url(../images/ic_regist_position.png) no-repeat scroll 5px center #fff;
+	background-size: 20px;
+}
+.main .company{
+	background: url(../images/ic_regist_company.png) no-repeat scroll 5px center #fff;
+	background-size: 20px;
+}
+.main .submitBox{
+	background-color: #FF9B39;
+	line-height: 40px;
+	height: 40px;
+	text-align: center;
+	color: #fff;
+	font-size: 16px;
+	border: none;
+	border-radius: 5px;
+	font-family: 'Microsoft YaHei';
+}
+.main ul{
+	margin-top: 20px;
+}
+.main ul li {
+	margin-bottom: 10px;
+	background-color: #FBF4E4;
+}

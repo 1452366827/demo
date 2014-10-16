@@ -1,0 +1,60 @@
+body{
+	background: #DFDFDF;
+}
+.header_title{
+	font-size: 16px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	color: #fff;
+	font-family: 'Microsoft YaHei';
+	background-color: #FFC388;
+
+}
+
+.absBox{
+	position: absolute;
+	left: 20px;
+	top: -2px;
+}
+
+#list_Box{
+	margin-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+#list_Box li{
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 0 !important;
+	padding-right: 0 !important;
+	background-color: #fff;
+	overflow: hidden;
+	color: #000;
+	border-radius: 5px;
+}
+#list_Box li a{color: #000;}
+
+#list_Box .col-xs-1,#list_Box .col-xs-2,#list_Box .col-xs-3,#list_Box .col-xs-4
+,#list_Box .col-xs-5,#list_Box .col-xs-6,#list_Box .col-xs-7,#list_Box .col-xs-8,
+#list_Box .col-xs-9,#list_Box .col-xs-10,#list_Box .col-xs-11,#list_Box .col-xs-12{
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#list_Box  .txtBox{
+	font-size: 16px;
+	line-height: 20px;
+	margin-bottom: 5px;
+	padding: 0;
+	font-family: 'Microsoft YaHei';
+}
+
+.gt_box{
+	font-size: 12px;
+	line-height: 20px;
+	color: #666;
+}
+
+
+

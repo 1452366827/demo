@@ -1,0 +1,34 @@
+/*设置css*/
+
+.set_header{
+	font-size: 16px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	color: #fff;
+	font-family: 'Microsoft YaHei';
+	background-color: #FFC388;
+}
+.set_list{
+	border-bottom: 1px solid #cccccc;
+	height: 35px;
+	line-height: 35px;
+	padding: 0;
+	background: url(../images/pull-right.png) no-repeat scroll right center;
+}
+#set_listBox{
+	margin-top: 20px;
+	color: #666;
+}
+#set_listBox li{
+	margin-bottom: 15px;
+}
+#set_listBox a{ color: #666; font-family: 'Microsoft YaHei';}
+
+.absBox{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	left: 0;
+	top:5px;
+}
